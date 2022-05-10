@@ -12,7 +12,7 @@ Repository for second product of FYP, using a genetic algorithm to make t-shirt 
         * python -m pip install -U pip
         * pip install pygame
      
-2. in terminal navigate to Interactive-Selection Folder
+2. in terminal navigate to Interactive_Selection Folder
 
 3. to execute type in console:
     * python main.py
